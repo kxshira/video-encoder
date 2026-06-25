@@ -102,14 +102,6 @@ This project was built using **Python** and **PyQt6**.
 
 > Screenshots will be added soon.
 
-```
-screenshots/
-├── main-window.png
-├── encoder.png
-├── timeline.png
-└── settings.png
-```
-
 ---
 
 # Requirements

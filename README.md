@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Name
+# video Encoder
 
 **Modern FFmpeg GUI built with Python & PyQt6**
 
@@ -21,7 +21,7 @@ A fast, modern, and user-friendly desktop application for encoding, converting, 
 
 # Overview
 
-Project Name is a modern graphical interface for **FFmpeg** that focuses on usability while exposing many of FFmpeg's powerful features.
+Video Encoder is a modern graphical interface for **FFmpeg** that focuses on usability while exposing many of FFmpeg's powerful features.
 
 Instead of remembering long command-line arguments, you can configure everything through an intuitive interface and instantly preview the generated FFmpeg command.
 

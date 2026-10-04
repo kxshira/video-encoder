@@ -116,13 +116,13 @@ This project was built using **Python** and **PyQt6**.
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/ProjectName.git
+git clone https://github.com/kxshira/video-encoder.git
 ```
 
 Enter the project
 
 ```bash
-cd ProjectName
+cd video-encoder
 ```
 
 Install dependencies
